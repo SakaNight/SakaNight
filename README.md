@@ -2,17 +2,6 @@ Hi, I’m @SakaNight 👋
 
 💻 I'm a full-stack developer and machine learning engineer passionate about building intelligent, production-ready systems—from interactive web apps to scalable AI services.
 
-🚀 Recent Highlights:
-
-🔧 **Task Management System**  
-A full-stack productivity app with JWT auth, task filters, file uploads, and statistics. Built with **Next.js + FastAPI + PostgreSQL**, Dockerized and CI/CD-ready.  
-
-🧠 **Medical Image Classification with Transformers**  
-Benchmarked **ViT and CMT models** on chest X-ray datasets with different attention mechanisms. Implemented and evaluated training pipelines using **PyTorch**.  
-
-🧪 **Quantum-Classical Neural Network for Traffic Sign Recognition**  
-Designed and deployed a hybrid **QCNN** using Qiskit and PyTorch, demonstrating comparative results with classical CNNs.
-
 ## 🧠 Tech Focus & Stack Highlights
 
 ### 🧱 Backend Development
