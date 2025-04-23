@@ -1,13 +1,26 @@
-# 👋 Hi, I’m @SakaNight
+Hi, I’m @SakaNight 👋
 
-🎯 I'm a full-stack developer interested in building practical web applications.
+💻 I'm a full-stack developer and machine learning engineer passionate about building intelligent, production-ready systems—from interactive web apps to scalable AI services.
 
-🚀 Recent Projects:
-- **[Task Management System](https://github.com/SakaNight/Task-Management-System)**  
-  A full-stack app with authentication, task tracking, attachment uploads, and statistics. Built with Next.js + FastAPI + Prisma + PostgreSQL. Dockerized for easy deployment.
+🚀 Recent Highlights:
 
-📚 Currently exploring:
-- TypeScript, CI/CD, and building scalable backend systems.
+🔧 **Task Management System**  
+A full-stack productivity app with JWT auth, task filters, file uploads, and statistics. Built with **Next.js + FastAPI + PostgreSQL**, Dockerized and CI/CD-ready.  
 
-🎮 Fun fact:
-- I play D&D and love creating character backstories!
+🧠 **Medical Image Classification with Transformers**  
+Benchmarked **ViT and CMT models** on chest X-ray datasets with different attention mechanisms. Implemented and evaluated training pipelines using **PyTorch**.  
+
+🧪 **Quantum-Classical Neural Network for Traffic Sign Recognition**  
+Designed and deployed a hybrid **QCNN** using Qiskit and PyTorch, demonstrating comparative results with classical CNNs.
+
+🤖 **LLM Integration & Prompt Engineering**  
+Exploring use of **LLMs** (e.g., ChatGPT, open-source models) for document tagging, summarization, and intelligent API assistants. Prompt tuning and inference API integration with FastAPI.
+
+📚 Currently Exploring:
+- LLM fine-tuning & Retrieval-Augmented Generation (RAG)  
+- System design and backend scalability patterns  
+- MLOps tools like Ray, KServe, and Helm for model deployment
+
+🌐 Portfolio projects & write-ups coming soon!  
+
+🎮 Fun fact: I play D&D and love writing branching storylines for my characters!
