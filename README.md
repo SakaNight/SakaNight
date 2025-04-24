@@ -1,4 +1,4 @@
-Hi, I’m @SakaNight 👋
+Hi, I’m Aries Chen 👋
 
 💻 I'm a full-stack developer and machine learning engineer passionate about building intelligent, production-ready systems—from interactive web apps to scalable AI services.
 
