@@ -4,8 +4,6 @@ Hi, I’m Aries Chen 👋
 
 ## 🧠 Tech Focus & Stack Highlights
 
-## 🧠 Tech Focus & Stack Highlights
-
 ### 🧱 Backend Development
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
