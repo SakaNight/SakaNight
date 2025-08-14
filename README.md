@@ -10,15 +10,15 @@
 
 ## Tech Focus
 
-**Backend & APIs**
+### Backend & APIs
 - FastAPI, Python, Pydantic, RBAC/JWT, REST design, WebSockets  
-**Data & Storage**
+### Data & Storage
 - PostgreSQL, Redis, Prisma ORM, S3 (object storage)  
-**ML Infra**
+### ML Infra
 - HuggingFace, FAISS, RAG, LangChain, PyTorch  
-**DevOps**
+### DevOps
 - Docker, GitHub Actions (CI/CD), Nginx, AWS (ECS/Fargate)  
-**Frontend**
+### Frontend
 - React (Next.js), TypeScript, D3.js
 
 ---
