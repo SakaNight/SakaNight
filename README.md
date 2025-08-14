@@ -10,7 +10,7 @@
 
 ## Tech Focus
 
-**Backend / APIs**
+**Backend & APIs**
 - FastAPI, Python, Pydantic, RBAC/JWT, REST design, WebSockets  
 **Data & Storage**
 - PostgreSQL, Redis, Prisma ORM, S3 (object storage)  
